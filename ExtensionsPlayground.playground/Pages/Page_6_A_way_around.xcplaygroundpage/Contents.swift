@@ -32,7 +32,7 @@ extension Array where T:StringType {
 ["one","two","three"].joinAll(" ")  // "one two three"
 //: The possibilities that open up when the restrictions are circumvented appear encouraging, but the restrictions themselves, of not being able to use struct (and enum) types directly, might well be temporary (and be resolved in a future Xcode 7 beta), so I wouldn't try too hard to circumvent them.
 //:
-//: Especially in this particular case where there are other options readily available that are just as efficient:
+//: Especially in this particular case where there are other options readily available:
 ", ".join(["one","two","three"])  // "one, two, three"
 "".join(["one","two","three"])  // "onetwothree"
 

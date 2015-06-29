@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='rendered'>
+    <pages>
+        <page name='Page_1_First_up'/>
+        <page name='Page_2_Tipping_the_scale'/>
+        <page name='Page_4_Creating_order'/>
+        <page name='Page_5_Rules_of_the_game'/>
+        <page name='Page_6_A_way_around'/>
+        <page name='Page_7_Class extensions'/>
+        <page name='Page_8_Going_even_further_with_protocols'/>
+        <page name='Page_9_Warnings'/>
+        <page name='Page_10_Conclusion'/>
+    </pages>
+</playground>
